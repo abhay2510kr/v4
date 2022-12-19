@@ -13,6 +13,10 @@
   "license": "MIT",
   "browserslist": "> 0.25%, not dead",
   "scripts": {
+    "Install": "npm install -g gatsby-cli",
+    "Install-two": "nvm install",
+    "Dep": "yarn",
+    "npm stater": "npm start"
     "build": "npm run build",
     "start": "npm run serve"
   },
